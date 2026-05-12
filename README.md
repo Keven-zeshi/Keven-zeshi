@@ -1,8 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img width="735" height="449" alt="image" src="https://github.com/user-attachments/assets/6a0b32d2-8c23-49ce-8440-ef92388101ed" />
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4250&pause=1500&color=F70000&width=435&lines=Who...+Who+are+you%3F;I'm...+just+a+clown...;Here+take+this+flower.)](https://git.io/typing-svg)
 <!--
 **Keven-zeshi/Keven-zeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+---
+
+## 👤 Profile: iDont fuck know
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
