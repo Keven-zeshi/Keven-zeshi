@@ -1,13 +1,17 @@
+<body>
+  <center>
+<h1 align="center">~  𝓝𝓸𝓽𝓱𝓲𝓷𝓰 𝓣𝓸 𝓢𝓮𝓮 𝓗𝓮𝓻𝓮...  ~</h1>
+<br>
 <div align="center">
-<img width="735" height="449" alt="image" src="https://github.com/user-attachments/assets/6a0b32d2-8c23-49ce-8440-ef92388101ed" />
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/refs/heads/master/assets/35467.gif" width="500">
+</p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4250&pause=1500&color=F70000&width=435&lines=Who...+Who+are+you%3F;I'm...+just+a+clown...;Here+take+this+flower.)](https://git.io/typing-svg)
-<div>
 
 
 ---
-
 
 <picture>
   <source
