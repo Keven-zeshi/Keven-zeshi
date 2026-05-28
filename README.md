@@ -18,7 +18,7 @@
 <div align="left">
 <li><b>Name:</b> zeshi 🫣</li>
   <br>
-<li><b>Loves:</b> LN, Roblox, Geometry Dash 😭</li>
+<li><b>Loves:</b> LN, Roblox😭</li>
   <br>
 <li><b>Gender:</b> he/him</li>
   <br>
