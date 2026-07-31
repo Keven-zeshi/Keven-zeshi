@@ -16,13 +16,13 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="180">
 
 <div align="left">
-<li><b>Name:</b> Keven 🫣</li>
+<li><b>Name:</b> Keven </li>
   <br>
-<li><b>Loves:</b> LN, Roblox😭</li>
+<li><b>Loves:</b> LN, Roblox</li>
   <br>
 <li><b>Gender:</b> he/him</li>
   <br>
-<li><b>Hobbies:</b> Sleep, ligh novels..., Play games 😭 </li>
+<li><b>Hobbies:</b> Sleep, ligh novels..., Play games </li>
   <br>
 </div>
 
