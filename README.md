@@ -10,25 +10,56 @@
 
 ---
 
-<div>
-<h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
-  
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="180">
+### 👤 Profile
 
-<div align="left">
-<li><b>Name:</b> Keven </li>
-  <br>
-<li><b>Loves:</b> LN, Roblox</li>
-  <br>
-<li><b>Gender:</b> he/him</li>
-  <br>
-<li><b>Hobbies:</b> Sleep, ligh novels..., Play games </li>
-  <br>
+<br>
+
+<img align="right" width="300px" alt="fire keeper" src="https://github.com/user-attachments/assets/f545ca9b-841b-46bd-bc1f-e8e6a0bb370d" />
+
+
+```
+Zeshi@agent
+OS: Arch Linux (CachyOS)
+KERNEL: Hyprland (Wayland)
+SHELL: Shell Scripting (Learning)
+UPTIME: Student @ SENAI Suíço-Brasileiro
+IDE: VSCode, IntelliJ 
+LANGS: Lua, C++, Java, C#, HTML/CSS, Pyton.
+```
+
+
+<br clear="right"/>
+
+---
+
+### 🔧 The Loadout
+<p align="center">
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `Lua`, `Java`, `C#`, `C++`, `HTML/CSS`, `Shell Script`, `Pyton`, `constelation` |
+| **Editors** |  `VSCode`, `IntelliJ` |
+| **OS** | `Arch Linux` (CachyOS) + `Hyprland` |
+| **VCS** | `Git` |
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-33CCFF?style=for-the-badge&logo=hyprland&logoColor=white" />
+</p>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yukimura-kyoto&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
 </div>
 
-<br><br><br><br>
 
-</div>
+
+
+
+
 
 ---
 <picture>
