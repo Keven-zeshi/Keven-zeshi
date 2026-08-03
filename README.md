@@ -5,7 +5,7 @@
 <div align="center">
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/refs/heads/master/assets/35467.gif" width="500">
+  <img src="https://raw.githubusercontent.com/Keven-zeshi/Keven-zeshi/refs/heads/main/assets/YTDown.com_YouTube_Fixed-Immortal-Travel-Creation_Media_oRI0HD8IJ9g_001_1080p(1).gif" width="800" height="350">
 </p>
 
 ---
@@ -14,8 +14,7 @@
 
 <br>
 
-<img align="right" width="300px" alt="fire keeper" src="https://github.com/user-attachments/assets/f545ca9b-841b-46bd-bc1f-e8e6a0bb370d" />
-
+<img align="right" width="300px" alt="fire keeper" src="https://raw.githubusercontent.com/Keven-zeshi/Keven-zeshi/refs/heads/main/assets/7c811feb4c343dadd8b78c93a19f5a00.jpg?v=2" />
 
 ```
 Zeshi@agent
@@ -37,7 +36,7 @@ LANGS: Lua, C++, Java, C#, HTML/CSS, Pyton.
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Lua`, `Java`, `C#`, `C++`, `HTML/CSS`, `Shell Script`, `Pyton`, `constelation` |
+| **Languages** | `Fated`, `Java`, `C++`, `Pyton`, `constellation`, `CoffeeScript` |
 | **Editors** |  `VSCode`, `IntelliJ` |
 | **OS** | `Arch Linux` (CachyOS) + `Hyprland` |
 | **VCS** | `Git` |
