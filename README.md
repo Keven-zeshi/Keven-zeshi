@@ -23,7 +23,7 @@ KERNEL: Hyprland (Wayland)
 SHELL: Shell Scripting (Learning)
 UPTIME: Student @ SENAI Suíço-Brasileiro
 IDE: VSCode, IntelliJ 
-LANGS:  C, Java, constellation, CoffeeScript, Pyton.
+LANGS:  C++, Java, constellation, CoffeeScript, Python, Assembly, Bash
 ```
 
 
@@ -36,7 +36,7 @@ LANGS:  C, Java, constellation, CoffeeScript, Pyton.
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `Java`, `C++`, `Pyton`, `constellation`, `CoffeeScript` |
+| **Languages** | `Java`, `C++`, `Python`, `constellation`, `CoffeeScript`, `Assembly`, `Bash`|
 | **Editors** |  `VSCode`, `IntelliJ` |
 | **OS** | `Arch Linux` (CachyOS) + `Hyprland` |
 | **VCS** | `Git` |
