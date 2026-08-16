@@ -19,7 +19,8 @@
 ```
 Zeshi@agent
 OS: Arch Linux (CachyOS)
-KERNEL: Hyprland (Wayland)
+KERNEL: Linux (cachyos-zen)
+WM: Hyprland (Wayland)
 SHELL: Shell Scripting (Learning)
 UPTIME: Student @ SENAI Suíço-Brasileiro
 IDE: VSCode, IntelliJ 
