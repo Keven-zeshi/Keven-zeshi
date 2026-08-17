@@ -51,7 +51,6 @@ LANGS:  C++, Java, constellation, CoffeeScript, Python, Assembly, Bash
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yukimura-kyoto&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
 
