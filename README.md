@@ -10,21 +10,32 @@
 
 ---
 
-### 👤 Profile
+
+<div align="left">
+
+```zsh
+> Fastfetch
+```
+
+</div>
+
+
+
 
 <br>
 
 <img align="right" width="300px" alt="fire keeper" src="https://raw.githubusercontent.com/Keven-zeshi/Keven-zeshi/refs/heads/main/assets/7c811feb4c343dadd8b78c93a19f5a00.jpg?v=2" />
 
-```
-Zeshi@agent
-OS: Arch Linux (CachyOS)
-KERNEL: Linux (cachyos-zen)
-WM: Hyprland (Wayland)
-SHELL: Shell Scripting (Learning)
-UPTIME: Student @ SENAI Suíço-Brasileiro
-IDE: VSCode, IntelliJ 
-LANGS:  C++, Java, constellation, CoffeeScript, Python, Assembly, Bash
+```csharp
+Keven-zeshi@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: Shell Scripting
+Pronouns: He/Him
+Location: São Paulo, BR
+Languages: Python, C, C++, Constellation
+Learning: Shell Script, Python, C++, C, Java, Assembly
+Hobbies: Reading, Gaming
 ```
 
 
